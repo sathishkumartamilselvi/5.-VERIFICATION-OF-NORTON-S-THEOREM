@@ -23,21 +23,20 @@ It is the short-circuit current through the load terminals. i.e., IN = Isc
 Norton’s Resistance, RN:It is the look-back resistance across the load terminals when all the sources are replaced by their internal resistances. An ideal voltage source is replaced by short- circuiting as its internal resistance is zero. An ideal current source is replaced by open- circuiting as its internal resistance is infinity.
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
+![WhatsApp Image 2025-10-17 at 20 33 08_0627f84b](https://github.com/user-attachments/assets/029d8cc9-845f-4c25-9a6e-7df4df9f453c)
 
-**To measure IL**
-
-
-**To measure RTh or RN**
+![WhatsApp Image 2025-10-17 at 20 33 08_0627f84b](https://github.com/user-attachments/assets/385a0081-cece-4b2e-9424-7d1013fe5c2b)
 
 
+**CALCULATION**
+![WhatsApp Image 2025-10-17 at 20 42 24_dc21ea29](https://github.com/user-attachments/assets/18f443c5-a73f-491d-942a-ea42057251f9)
+![WhatsApp Image 2025-10-17 at 20 41 15_2e3f9bae](https://github.com/user-attachments/assets/f4e0ed1f-2b96-46f9-9772-64e4d69d34d6)
 
-**To measure IN or Isc**
+**MARK SPLIT-UP**
 
- 
-**Thevenin’s equivalent circuit**
+![WhatsApp Image 2025-10-17 at 20 44 58_a11c7961](https://github.com/user-attachments/assets/e8ac9879-d36d-4d43-acd4-783620363267)
 
 
-**Norton’s equivalent circuit**
 
 
 **PROCEDURE:**
@@ -69,35 +68,6 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
    	Norton’s Theorem IL = IN * RN / ( RN + RL )
 
 12.	Theoretically verify the Norton’s theorem.
-
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
-
-
-**TABULAR COLUMN:3**
-
-To measure IN or Isc
-
-Vi (volts)	IN (amps)
-	
-**MODEL CALCULATION:**
-
-Practical value of IL (from tabulation 1) =2.3mA
-
-**Verification of Norton’s theorem**
-
-IL = IN * RN / ( RN+ RL ) = 2.43mA
-
-Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
- 
 
 
 **RESULT:**
